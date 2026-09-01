@@ -1,0 +1,72 @@
+# Python bytecode and test/tool caches
+__pycache__/
+*.py[cod]
+*.pyo
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.ipynb_checkpoints/
+
+# Local Python environments
+.venv/
+venv/
+env/
+ENV/
+
+# IDE and editor state
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Local credentials and machine-specific configuration
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+
+# Logs and TensorBoard/W&B run data
+*.log
+logs/
+MsaMIL_Net/log/
+MsaMIL_Net/runs/
+MsaMIL_Net/wandb/
+
+# Experiment outputs and model checkpoints (kept locally, never committed)
+MsaMIL_Net/checkpoints/
+MsaMIL_Net/results/
+*.pt
+*.pth
+*.ckpt
+*.safetensors
+
+# Generated feature arrays and other binary data
+MsaMIL_Net/data/features_*/
+*.npy
+*.npz
+*.h5
+*.hdf5
+*.pkl
+*.pickle
+
+# Raw/large image and slide assets (the small .dummy smoke fixture is retained)
+*.svs
+*.tif
+*.tiff
+*.ndpi
+*.mrxs
+
+# Archives and download/temp files
+*.zip
+*.tar
+*.tar.gz
+*.tgz
+*.7z
+*.rar
+*.pt.*
+*.tmp
+*.temp
+*.part
+*.download
+

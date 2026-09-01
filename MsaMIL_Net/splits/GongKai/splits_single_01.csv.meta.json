@@ -1,0 +1,19 @@
+{
+  "label_file": "/home/ljh/data/MsaMIL/MsaMIL_Net/data/label.csv",
+  "out_csv": "/home/ljh/data/MsaMIL/MsaMIL_Net/splits/GongKai/splits_single_01.csv",
+  "seed": 42,
+  "test_ratio": 0.1,
+  "val_ratio": 0.1,
+  "kfold": 0,
+  "repeats": 0,
+  "mode": "cv",
+  "num_samples": 538,
+  "num_classes": 5,
+  "class_counts": {
+    "HGSC": 222,
+    "EC": 124,
+    "CC": 99,
+    "LGSC": 47,
+    "MC": 46
+  }
+}

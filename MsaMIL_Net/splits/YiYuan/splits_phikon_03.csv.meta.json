@@ -1,0 +1,16 @@
+{
+  "label_file": "/home/ljh/data/MsaMIL/MsaMIL_Net/data/all_data.csv",
+  "out_csv": "/home/ljh/data/MsaMIL/MsaMIL_Net/splits/splits_phikon_03.csv",
+  "seed": 42,
+  "test_ratio": 0.1,
+  "val_ratio": 0.1,
+  "kfold": 0,
+  "repeats": 0,
+  "mode": "cv",
+  "num_samples": 968,
+  "num_classes": 2,
+  "class_counts": {
+    "Adenocarcinoma": 637,
+    "NonAdenocarcinoma": 331
+  }
+}
