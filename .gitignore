@@ -35,11 +35,17 @@ MsaMIL_Net/wandb/
 
 # Experiment outputs and model checkpoints (kept locally, never committed)
 MsaMIL_Net/checkpoints/
-MsaMIL_Net/results/
 *.pt
 *.pth
 *.ckpt
 *.safetensors
+
+# Keep readable result metadata (JSON/JSONL/CSV/TXT), but omit generated
+# visualizations and image artifacts from experiment result directories.
+MsaMIL_Net/results/**/visuals/
+MsaMIL_Net/results/**/*.png
+MsaMIL_Net/results/**/*.jpg
+MsaMIL_Net/results/**/*.jpeg
 
 # Generated feature arrays and other binary data
 MsaMIL_Net/data/features_*/
@@ -69,4 +75,3 @@ MsaMIL_Net/data/features_*/
 *.temp
 *.part
 *.download
-

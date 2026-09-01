@@ -1,0 +1,12 @@
+{
+  "checkpoint": "/private/ljh-data/shared/MsaMIL/MsaMIL_Net/results/YiYuan/features_phikon_queries_10/best_model_20260107_115422.pth",
+  "features_dir": "/private/ljh-data/shared/MsaMIL/MsaMIL_Net/data/features_phikon_Yi",
+  "label_file": "/private/ljh-data/shared/MsaMIL/MsaMIL_Net/data/all_data.csv",
+  "split_csv": "/private/ljh-data/shared/MsaMIL/MsaMIL_Net/splits/YiYuan/splits_phikon_03.csv",
+  "fold": 0,
+  "seed": 42,
+  "device": "cuda",
+  "test_samples": 97,
+  "test_acc": 0.9484536082474226,
+  "output_csv": "/private/ljh-data/shared/MsaMIL/MsaMIL_Net/results/YiYuan/features_phikon_queries_10/per_wsi_predictions/test_predictions_best_20260107_115422.csv"
+}

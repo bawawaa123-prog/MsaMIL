@@ -1,0 +1,2216 @@
+slide=2474638-B3
+total=778
+broken=736
+small=0
+modes={'RGB': 42}
+sizes={(2048, 2048): 42}
+
+[broken]
+/private/ljh-data/shared/data/patches_20x/2474638-B3/2474638-B3_512_100247_30673.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_20x/2474638-B3/2474638-B3_512_100247_32721.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_20x/2474638-B3/2474638-B3_512_100247_34769.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_20x/2474638-B3/2474638-B3_512_100247_36817.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_20x/2474638-B3/2474638-B3_512_100247_38865.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_20x/2474638-B3/2474638-B3_512_100247_40913.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_20x/2474638-B3/2474638-B3_512_100247_42961.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_20x/2474638-B3/2474638-B3_512_100247_45009.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_20x/2474638-B3/2474638-B3_512_100247_47057.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_20x/2474638-B3/2474638-B3_512_100247_49105.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_20x/2474638-B3/2474638-B3_512_100247_51153.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_20x/2474638-B3/2474638-B3_512_100247_53201.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_20x/2474638-B3/2474638-B3_512_100247_55249.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_20x/2474638-B3/2474638-B3_512_100247_57297.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_20x/2474638-B3/2474638-B3_512_100247_59345.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_20x/2474638-B3/2474638-B3_512_100247_61393.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_20x/2474638-B3/2474638-B3_512_102295_28625.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_20x/2474638-B3/2474638-B3_512_102295_30673.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_20x/2474638-B3/2474638-B3_512_102295_32721.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_20x/2474638-B3/2474638-B3_512_102295_34769.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_20x/2474638-B3/2474638-B3_512_102295_38865.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_20x/2474638-B3/2474638-B3_512_102295_40913.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_20x/2474638-B3/2474638-B3_512_102295_42961.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_20x/2474638-B3/2474638-B3_512_102295_45009.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_20x/2474638-B3/2474638-B3_512_102295_47057.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_20x/2474638-B3/2474638-B3_512_102295_49105.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_20x/2474638-B3/2474638-B3_512_102295_51153.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_20x/2474638-B3/2474638-B3_512_102295_53201.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_20x/2474638-B3/2474638-B3_512_102295_55249.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_20x/2474638-B3/2474638-B3_512_104343_30673.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_20x/2474638-B3/2474638-B3_512_104343_32721.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_20x/2474638-B3/2474638-B3_512_104343_34769.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_20x/2474638-B3/2474638-B3_512_104343_36817.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_20x/2474638-B3/2474638-B3_512_104343_38865.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_20x/2474638-B3/2474638-B3_512_104343_40913.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_20x/2474638-B3/2474638-B3_512_104343_42961.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_20x/2474638-B3/2474638-B3_512_104343_45009.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_20x/2474638-B3/2474638-B3_512_104343_47057.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_20x/2474638-B3/2474638-B3_512_104343_49105.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_20x/2474638-B3/2474638-B3_512_106391_32721.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_20x/2474638-B3/2474638-B3_512_106391_34769.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_20x/2474638-B3/2474638-B3_512_106391_36817.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_20x/2474638-B3/2474638-B3_512_106391_38865.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_20x/2474638-B3/2474638-B3_512_11793_25968.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_20x/2474638-B3/2474638-B3_512_11793_28016.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_20x/2474638-B3/2474638-B3_512_11793_30064.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_20x/2474638-B3/2474638-B3_512_11793_32112.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_20x/2474638-B3/2474638-B3_512_11793_34160.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_20x/2474638-B3/2474638-B3_512_11793_36208.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_20x/2474638-B3/2474638-B3_512_11793_38256.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_20x/2474638-B3/2474638-B3_512_11793_40304.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_20x/2474638-B3/2474638-B3_512_11793_42352.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_20x/2474638-B3/2474638-B3_512_11793_44400.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_20x/2474638-B3/2474638-B3_512_11793_46448.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_20x/2474638-B3/2474638-B3_512_11793_48496.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_20x/2474638-B3/2474638-B3_512_13841_23920.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_20x/2474638-B3/2474638-B3_512_13841_25968.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_20x/2474638-B3/2474638-B3_512_13841_28016.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_20x/2474638-B3/2474638-B3_512_13841_30064.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_20x/2474638-B3/2474638-B3_512_13841_32112.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_20x/2474638-B3/2474638-B3_512_13841_34160.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_20x/2474638-B3/2474638-B3_512_13841_36208.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_20x/2474638-B3/2474638-B3_512_13841_38256.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_20x/2474638-B3/2474638-B3_512_13841_40304.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_20x/2474638-B3/2474638-B3_512_13841_42352.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_20x/2474638-B3/2474638-B3_512_13841_48496.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_20x/2474638-B3/2474638-B3_512_15889_19824.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_20x/2474638-B3/2474638-B3_512_15889_21872.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_20x/2474638-B3/2474638-B3_512_15889_23920.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_20x/2474638-B3/2474638-B3_512_15889_25968.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_20x/2474638-B3/2474638-B3_512_15889_28016.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_20x/2474638-B3/2474638-B3_512_15889_30064.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_20x/2474638-B3/2474638-B3_512_15889_32112.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_20x/2474638-B3/2474638-B3_512_15889_34160.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_20x/2474638-B3/2474638-B3_512_15889_36208.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_20x/2474638-B3/2474638-B3_512_15889_38256.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_20x/2474638-B3/2474638-B3_512_15889_40304.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_20x/2474638-B3/2474638-B3_512_15889_42352.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_20x/2474638-B3/2474638-B3_512_15889_44400.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_20x/2474638-B3/2474638-B3_512_15889_46448.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_20x/2474638-B3/2474638-B3_512_15889_48496.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_20x/2474638-B3/2474638-B3_512_17937_17776.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_20x/2474638-B3/2474638-B3_512_17937_19824.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_20x/2474638-B3/2474638-B3_512_17937_21872.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_20x/2474638-B3/2474638-B3_512_17937_23920.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_20x/2474638-B3/2474638-B3_512_17937_25968.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_20x/2474638-B3/2474638-B3_512_17937_28016.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_20x/2474638-B3/2474638-B3_512_17937_30064.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_20x/2474638-B3/2474638-B3_512_17937_32112.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_20x/2474638-B3/2474638-B3_512_17937_34160.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_20x/2474638-B3/2474638-B3_512_17937_36208.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_20x/2474638-B3/2474638-B3_512_17937_38256.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_20x/2474638-B3/2474638-B3_512_17937_40304.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_20x/2474638-B3/2474638-B3_512_17937_42352.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_20x/2474638-B3/2474638-B3_512_17937_44400.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_20x/2474638-B3/2474638-B3_512_17937_46448.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_20x/2474638-B3/2474638-B3_512_17937_48496.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_20x/2474638-B3/2474638-B3_512_19985_17776.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_20x/2474638-B3/2474638-B3_512_19985_19824.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_20x/2474638-B3/2474638-B3_512_19985_21872.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_20x/2474638-B3/2474638-B3_512_19985_23920.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_20x/2474638-B3/2474638-B3_512_19985_25968.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_20x/2474638-B3/2474638-B3_512_19985_28016.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_20x/2474638-B3/2474638-B3_512_19985_30064.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_20x/2474638-B3/2474638-B3_512_19985_32112.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_20x/2474638-B3/2474638-B3_512_19985_34160.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_20x/2474638-B3/2474638-B3_512_19985_36208.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_20x/2474638-B3/2474638-B3_512_19985_38256.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_20x/2474638-B3/2474638-B3_512_19985_40304.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_20x/2474638-B3/2474638-B3_512_19985_42352.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_20x/2474638-B3/2474638-B3_512_19985_44400.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_20x/2474638-B3/2474638-B3_512_19985_46448.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_20x/2474638-B3/2474638-B3_512_19985_48496.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_20x/2474638-B3/2474638-B3_512_22033_13680.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_20x/2474638-B3/2474638-B3_512_22033_15728.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_20x/2474638-B3/2474638-B3_512_22033_17776.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_20x/2474638-B3/2474638-B3_512_22033_19824.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_20x/2474638-B3/2474638-B3_512_22033_21872.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_20x/2474638-B3/2474638-B3_512_22033_23920.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_20x/2474638-B3/2474638-B3_512_22033_25968.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_20x/2474638-B3/2474638-B3_512_22033_28016.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_20x/2474638-B3/2474638-B3_512_22033_30064.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_20x/2474638-B3/2474638-B3_512_22033_32112.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_20x/2474638-B3/2474638-B3_512_22033_34160.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_20x/2474638-B3/2474638-B3_512_22033_36208.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_20x/2474638-B3/2474638-B3_512_22033_38256.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_20x/2474638-B3/2474638-B3_512_22033_40304.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_20x/2474638-B3/2474638-B3_512_22033_42352.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_20x/2474638-B3/2474638-B3_512_22033_44400.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_20x/2474638-B3/2474638-B3_512_22033_46448.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_20x/2474638-B3/2474638-B3_512_22033_48496.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_20x/2474638-B3/2474638-B3_512_22033_50544.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_20x/2474638-B3/2474638-B3_512_24081_13680.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_20x/2474638-B3/2474638-B3_512_24081_15728.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_20x/2474638-B3/2474638-B3_512_24081_17776.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_20x/2474638-B3/2474638-B3_512_24081_19824.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_20x/2474638-B3/2474638-B3_512_24081_21872.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_20x/2474638-B3/2474638-B3_512_24081_23920.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_20x/2474638-B3/2474638-B3_512_24081_25968.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_20x/2474638-B3/2474638-B3_512_24081_28016.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_20x/2474638-B3/2474638-B3_512_24081_30064.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_20x/2474638-B3/2474638-B3_512_24081_32112.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_20x/2474638-B3/2474638-B3_512_24081_34160.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_20x/2474638-B3/2474638-B3_512_24081_36208.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_20x/2474638-B3/2474638-B3_512_24081_38256.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_20x/2474638-B3/2474638-B3_512_24081_40304.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_20x/2474638-B3/2474638-B3_512_24081_42352.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_20x/2474638-B3/2474638-B3_512_24081_44400.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_20x/2474638-B3/2474638-B3_512_24081_46448.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_20x/2474638-B3/2474638-B3_512_24081_48496.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_20x/2474638-B3/2474638-B3_512_24081_50544.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_20x/2474638-B3/2474638-B3_512_26129_11632.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_20x/2474638-B3/2474638-B3_512_26129_13680.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_20x/2474638-B3/2474638-B3_512_26129_15728.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_20x/2474638-B3/2474638-B3_512_26129_17776.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_20x/2474638-B3/2474638-B3_512_26129_19824.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_20x/2474638-B3/2474638-B3_512_26129_21872.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_20x/2474638-B3/2474638-B3_512_26129_23920.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_20x/2474638-B3/2474638-B3_512_26129_25968.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_20x/2474638-B3/2474638-B3_512_26129_28016.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_20x/2474638-B3/2474638-B3_512_26129_30064.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_20x/2474638-B3/2474638-B3_512_26129_32112.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_20x/2474638-B3/2474638-B3_512_26129_34160.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_20x/2474638-B3/2474638-B3_512_26129_36208.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_20x/2474638-B3/2474638-B3_512_26129_38256.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_20x/2474638-B3/2474638-B3_512_26129_40304.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_20x/2474638-B3/2474638-B3_512_26129_42352.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_20x/2474638-B3/2474638-B3_512_26129_44400.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_20x/2474638-B3/2474638-B3_512_26129_46448.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_20x/2474638-B3/2474638-B3_512_26129_48496.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_20x/2474638-B3/2474638-B3_512_26129_50544.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_20x/2474638-B3/2474638-B3_512_28177_11632.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_20x/2474638-B3/2474638-B3_512_28177_13680.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_20x/2474638-B3/2474638-B3_512_28177_15728.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_20x/2474638-B3/2474638-B3_512_28177_17776.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_20x/2474638-B3/2474638-B3_512_28177_19824.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_20x/2474638-B3/2474638-B3_512_28177_21872.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_20x/2474638-B3/2474638-B3_512_28177_23920.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_20x/2474638-B3/2474638-B3_512_28177_25968.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_20x/2474638-B3/2474638-B3_512_28177_28016.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_20x/2474638-B3/2474638-B3_512_28177_30064.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_20x/2474638-B3/2474638-B3_512_28177_32112.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_20x/2474638-B3/2474638-B3_512_28177_34160.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_20x/2474638-B3/2474638-B3_512_28177_36208.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_20x/2474638-B3/2474638-B3_512_28177_38256.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_20x/2474638-B3/2474638-B3_512_28177_40304.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_20x/2474638-B3/2474638-B3_512_28177_42352.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_20x/2474638-B3/2474638-B3_512_28177_44400.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_20x/2474638-B3/2474638-B3_512_28177_46448.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_20x/2474638-B3/2474638-B3_512_28177_48496.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_20x/2474638-B3/2474638-B3_512_28177_9584.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_20x/2474638-B3/2474638-B3_512_30225_11632.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_20x/2474638-B3/2474638-B3_512_30225_13680.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_20x/2474638-B3/2474638-B3_512_30225_15728.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_20x/2474638-B3/2474638-B3_512_30225_17776.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_20x/2474638-B3/2474638-B3_512_30225_19824.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_20x/2474638-B3/2474638-B3_512_30225_21872.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_20x/2474638-B3/2474638-B3_512_30225_23920.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_20x/2474638-B3/2474638-B3_512_30225_25968.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_20x/2474638-B3/2474638-B3_512_30225_28016.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_20x/2474638-B3/2474638-B3_512_30225_30064.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_20x/2474638-B3/2474638-B3_512_30225_32112.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_20x/2474638-B3/2474638-B3_512_30225_34160.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_20x/2474638-B3/2474638-B3_512_30225_36208.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_20x/2474638-B3/2474638-B3_512_30225_38256.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_20x/2474638-B3/2474638-B3_512_30225_40304.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_20x/2474638-B3/2474638-B3_512_30225_42352.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_20x/2474638-B3/2474638-B3_512_30225_44400.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_20x/2474638-B3/2474638-B3_512_30225_46448.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_20x/2474638-B3/2474638-B3_512_30225_48496.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_20x/2474638-B3/2474638-B3_512_30225_54640.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_20x/2474638-B3/2474638-B3_512_30225_56688.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_20x/2474638-B3/2474638-B3_512_30225_9584.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_20x/2474638-B3/2474638-B3_512_32273_13680.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_20x/2474638-B3/2474638-B3_512_32273_15728.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_20x/2474638-B3/2474638-B3_512_32273_17776.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_20x/2474638-B3/2474638-B3_512_32273_19824.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_20x/2474638-B3/2474638-B3_512_32273_21872.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_20x/2474638-B3/2474638-B3_512_32273_23920.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_20x/2474638-B3/2474638-B3_512_32273_25968.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_20x/2474638-B3/2474638-B3_512_32273_28016.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_20x/2474638-B3/2474638-B3_512_32273_30064.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_20x/2474638-B3/2474638-B3_512_32273_32112.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_20x/2474638-B3/2474638-B3_512_32273_46448.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_20x/2474638-B3/2474638-B3_512_32273_54640.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_20x/2474638-B3/2474638-B3_512_32273_56688.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_20x/2474638-B3/2474638-B3_512_34321_17776.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_20x/2474638-B3/2474638-B3_512_34321_19824.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_20x/2474638-B3/2474638-B3_512_34321_21872.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_20x/2474638-B3/2474638-B3_512_34321_23920.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_20x/2474638-B3/2474638-B3_512_34321_25968.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_20x/2474638-B3/2474638-B3_512_34321_28016.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_20x/2474638-B3/2474638-B3_512_34321_30064.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_20x/2474638-B3/2474638-B3_512_34321_38256.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_20x/2474638-B3/2474638-B3_512_34321_40304.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_20x/2474638-B3/2474638-B3_512_34321_42352.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_20x/2474638-B3/2474638-B3_512_34321_44400.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_20x/2474638-B3/2474638-B3_512_34321_46448.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_20x/2474638-B3/2474638-B3_512_34321_48496.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_20x/2474638-B3/2474638-B3_512_34321_50544.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_20x/2474638-B3/2474638-B3_512_34321_52592.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_20x/2474638-B3/2474638-B3_512_34321_54640.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_20x/2474638-B3/2474638-B3_512_34321_56688.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_20x/2474638-B3/2474638-B3_512_34321_58736.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_20x/2474638-B3/2474638-B3_512_36369_19824.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_20x/2474638-B3/2474638-B3_512_36369_21872.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_20x/2474638-B3/2474638-B3_512_36369_23920.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_20x/2474638-B3/2474638-B3_512_36369_25968.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_20x/2474638-B3/2474638-B3_512_36369_28016.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_20x/2474638-B3/2474638-B3_512_36369_30064.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_20x/2474638-B3/2474638-B3_512_36369_32112.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_20x/2474638-B3/2474638-B3_512_36369_38256.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_20x/2474638-B3/2474638-B3_512_36369_40304.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_20x/2474638-B3/2474638-B3_512_36369_42352.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_20x/2474638-B3/2474638-B3_512_36369_44400.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_20x/2474638-B3/2474638-B3_512_36369_46448.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_20x/2474638-B3/2474638-B3_512_36369_48496.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_20x/2474638-B3/2474638-B3_512_36369_50544.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_20x/2474638-B3/2474638-B3_512_36369_52592.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_20x/2474638-B3/2474638-B3_512_36369_54640.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_20x/2474638-B3/2474638-B3_512_36369_56688.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_20x/2474638-B3/2474638-B3_512_36369_58736.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_20x/2474638-B3/2474638-B3_512_38417_21872.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_20x/2474638-B3/2474638-B3_512_38417_23920.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_20x/2474638-B3/2474638-B3_512_38417_25968.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_20x/2474638-B3/2474638-B3_512_38417_28016.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_20x/2474638-B3/2474638-B3_512_38417_32112.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_20x/2474638-B3/2474638-B3_512_38417_34160.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_20x/2474638-B3/2474638-B3_512_38417_36208.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_20x/2474638-B3/2474638-B3_512_38417_40304.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_20x/2474638-B3/2474638-B3_512_38417_42352.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_20x/2474638-B3/2474638-B3_512_38417_44400.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_20x/2474638-B3/2474638-B3_512_38417_46448.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_20x/2474638-B3/2474638-B3_512_38417_48496.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_20x/2474638-B3/2474638-B3_512_38417_50544.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_20x/2474638-B3/2474638-B3_512_38417_52592.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_20x/2474638-B3/2474638-B3_512_38417_54640.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_20x/2474638-B3/2474638-B3_512_38417_56688.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_20x/2474638-B3/2474638-B3_512_40465_19824.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_20x/2474638-B3/2474638-B3_512_40465_21872.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_20x/2474638-B3/2474638-B3_512_40465_23920.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_20x/2474638-B3/2474638-B3_512_40465_25968.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_20x/2474638-B3/2474638-B3_512_40465_28016.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_20x/2474638-B3/2474638-B3_512_40465_30064.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_20x/2474638-B3/2474638-B3_512_40465_32112.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_20x/2474638-B3/2474638-B3_512_40465_34160.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_20x/2474638-B3/2474638-B3_512_40465_36208.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_20x/2474638-B3/2474638-B3_512_40465_38256.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_20x/2474638-B3/2474638-B3_512_40465_40304.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_20x/2474638-B3/2474638-B3_512_40465_42352.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_20x/2474638-B3/2474638-B3_512_40465_44400.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_20x/2474638-B3/2474638-B3_512_40465_46448.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_20x/2474638-B3/2474638-B3_512_40465_48496.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_20x/2474638-B3/2474638-B3_512_40465_50544.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_20x/2474638-B3/2474638-B3_512_40465_52592.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_20x/2474638-B3/2474638-B3_512_40465_54640.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_20x/2474638-B3/2474638-B3_512_42513_21872.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_20x/2474638-B3/2474638-B3_512_42513_23920.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_20x/2474638-B3/2474638-B3_512_42513_25968.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_20x/2474638-B3/2474638-B3_512_42513_28016.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_20x/2474638-B3/2474638-B3_512_42513_30064.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_20x/2474638-B3/2474638-B3_512_42513_32112.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_20x/2474638-B3/2474638-B3_512_42513_34160.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_20x/2474638-B3/2474638-B3_512_42513_36208.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_20x/2474638-B3/2474638-B3_512_42513_38256.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_20x/2474638-B3/2474638-B3_512_42513_40304.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_20x/2474638-B3/2474638-B3_512_42513_42352.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_20x/2474638-B3/2474638-B3_512_42513_44400.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_20x/2474638-B3/2474638-B3_512_42513_46448.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_20x/2474638-B3/2474638-B3_512_42513_48496.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_20x/2474638-B3/2474638-B3_512_42513_50544.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_20x/2474638-B3/2474638-B3_512_42513_52592.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_20x/2474638-B3/2474638-B3_512_44561_19824.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_20x/2474638-B3/2474638-B3_512_44561_21872.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_20x/2474638-B3/2474638-B3_512_44561_23920.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_20x/2474638-B3/2474638-B3_512_44561_25968.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_20x/2474638-B3/2474638-B3_512_44561_30064.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_20x/2474638-B3/2474638-B3_512_44561_32112.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_20x/2474638-B3/2474638-B3_512_44561_34160.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_20x/2474638-B3/2474638-B3_512_44561_36208.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_20x/2474638-B3/2474638-B3_512_44561_38256.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_20x/2474638-B3/2474638-B3_512_44561_40304.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_20x/2474638-B3/2474638-B3_512_44561_42352.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_20x/2474638-B3/2474638-B3_512_44561_44400.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_20x/2474638-B3/2474638-B3_512_44561_46448.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_20x/2474638-B3/2474638-B3_512_44561_48496.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_20x/2474638-B3/2474638-B3_512_46609_21872.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_20x/2474638-B3/2474638-B3_512_46609_23920.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_20x/2474638-B3/2474638-B3_512_46609_25968.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_20x/2474638-B3/2474638-B3_512_46609_28016.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_20x/2474638-B3/2474638-B3_512_46609_30064.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_20x/2474638-B3/2474638-B3_512_46609_32112.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_20x/2474638-B3/2474638-B3_512_46609_34160.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_20x/2474638-B3/2474638-B3_512_46609_36208.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_20x/2474638-B3/2474638-B3_512_46609_38256.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_20x/2474638-B3/2474638-B3_512_46609_40304.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_20x/2474638-B3/2474638-B3_512_46609_42352.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_20x/2474638-B3/2474638-B3_512_48657_23920.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_20x/2474638-B3/2474638-B3_512_48657_25968.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_20x/2474638-B3/2474638-B3_512_48657_28016.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_20x/2474638-B3/2474638-B3_512_48657_30064.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_20x/2474638-B3/2474638-B3_512_48657_32112.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_20x/2474638-B3/2474638-B3_512_48657_34160.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_20x/2474638-B3/2474638-B3_512_48657_36208.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_20x/2474638-B3/2474638-B3_512_69527_36817.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_20x/2474638-B3/2474638-B3_512_69527_38865.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_20x/2474638-B3/2474638-B3_512_69527_40913.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_20x/2474638-B3/2474638-B3_512_69527_42961.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_20x/2474638-B3/2474638-B3_512_69527_45009.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_20x/2474638-B3/2474638-B3_512_69527_47057.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_20x/2474638-B3/2474638-B3_512_69527_51153.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_20x/2474638-B3/2474638-B3_512_71575_32721.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_20x/2474638-B3/2474638-B3_512_71575_34769.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_20x/2474638-B3/2474638-B3_512_71575_36817.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_20x/2474638-B3/2474638-B3_512_71575_38865.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_20x/2474638-B3/2474638-B3_512_71575_40913.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_20x/2474638-B3/2474638-B3_512_71575_42961.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_20x/2474638-B3/2474638-B3_512_71575_45009.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_20x/2474638-B3/2474638-B3_512_71575_47057.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_20x/2474638-B3/2474638-B3_512_71575_49105.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_20x/2474638-B3/2474638-B3_512_71575_51153.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_20x/2474638-B3/2474638-B3_512_71575_53201.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_20x/2474638-B3/2474638-B3_512_71575_57297.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_20x/2474638-B3/2474638-B3_512_73623_30673.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_20x/2474638-B3/2474638-B3_512_73623_32721.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_20x/2474638-B3/2474638-B3_512_73623_34769.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_20x/2474638-B3/2474638-B3_512_73623_36817.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_20x/2474638-B3/2474638-B3_512_73623_38865.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_20x/2474638-B3/2474638-B3_512_73623_40913.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_20x/2474638-B3/2474638-B3_512_73623_42961.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_20x/2474638-B3/2474638-B3_512_73623_45009.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_20x/2474638-B3/2474638-B3_512_73623_49105.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_20x/2474638-B3/2474638-B3_512_73623_51153.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_20x/2474638-B3/2474638-B3_512_73623_55249.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_20x/2474638-B3/2474638-B3_512_75671_26577.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_20x/2474638-B3/2474638-B3_512_75671_28625.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_20x/2474638-B3/2474638-B3_512_75671_30673.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_20x/2474638-B3/2474638-B3_512_75671_32721.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_20x/2474638-B3/2474638-B3_512_75671_36817.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_20x/2474638-B3/2474638-B3_512_75671_38865.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_20x/2474638-B3/2474638-B3_512_75671_40913.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_20x/2474638-B3/2474638-B3_512_75671_42961.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_20x/2474638-B3/2474638-B3_512_75671_45009.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_20x/2474638-B3/2474638-B3_512_75671_47057.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_20x/2474638-B3/2474638-B3_512_75671_49105.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_20x/2474638-B3/2474638-B3_512_75671_51153.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_20x/2474638-B3/2474638-B3_512_75671_53201.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_20x/2474638-B3/2474638-B3_512_75671_55249.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_20x/2474638-B3/2474638-B3_512_75671_57297.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_20x/2474638-B3/2474638-B3_512_77719_26577.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_20x/2474638-B3/2474638-B3_512_77719_28625.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_20x/2474638-B3/2474638-B3_512_77719_30673.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_20x/2474638-B3/2474638-B3_512_77719_32721.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_20x/2474638-B3/2474638-B3_512_77719_34769.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_20x/2474638-B3/2474638-B3_512_77719_36817.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_20x/2474638-B3/2474638-B3_512_77719_38865.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_20x/2474638-B3/2474638-B3_512_77719_40913.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_20x/2474638-B3/2474638-B3_512_77719_42961.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_20x/2474638-B3/2474638-B3_512_77719_45009.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_20x/2474638-B3/2474638-B3_512_77719_47057.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_20x/2474638-B3/2474638-B3_512_77719_49105.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_20x/2474638-B3/2474638-B3_512_77719_51153.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_20x/2474638-B3/2474638-B3_512_77719_53201.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_20x/2474638-B3/2474638-B3_512_77719_55249.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_20x/2474638-B3/2474638-B3_512_77719_57297.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_20x/2474638-B3/2474638-B3_512_79767_24529.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_20x/2474638-B3/2474638-B3_512_79767_26577.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_20x/2474638-B3/2474638-B3_512_79767_28625.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_20x/2474638-B3/2474638-B3_512_79767_30673.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_20x/2474638-B3/2474638-B3_512_79767_32721.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_20x/2474638-B3/2474638-B3_512_79767_34769.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_20x/2474638-B3/2474638-B3_512_79767_36817.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_20x/2474638-B3/2474638-B3_512_79767_38865.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_20x/2474638-B3/2474638-B3_512_79767_40913.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_20x/2474638-B3/2474638-B3_512_79767_42961.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_20x/2474638-B3/2474638-B3_512_79767_45009.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_20x/2474638-B3/2474638-B3_512_79767_47057.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_20x/2474638-B3/2474638-B3_512_79767_49105.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_20x/2474638-B3/2474638-B3_512_79767_51153.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_20x/2474638-B3/2474638-B3_512_79767_53201.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_20x/2474638-B3/2474638-B3_512_81815_22481.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_20x/2474638-B3/2474638-B3_512_81815_24529.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_20x/2474638-B3/2474638-B3_512_81815_26577.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_20x/2474638-B3/2474638-B3_512_81815_28625.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_20x/2474638-B3/2474638-B3_512_81815_30673.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_20x/2474638-B3/2474638-B3_512_81815_32721.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_20x/2474638-B3/2474638-B3_512_81815_34769.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_20x/2474638-B3/2474638-B3_512_81815_36817.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_20x/2474638-B3/2474638-B3_512_81815_38865.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_20x/2474638-B3/2474638-B3_512_81815_40913.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_20x/2474638-B3/2474638-B3_512_81815_42961.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_20x/2474638-B3/2474638-B3_512_81815_45009.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_20x/2474638-B3/2474638-B3_512_81815_47057.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_20x/2474638-B3/2474638-B3_512_81815_49105.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_20x/2474638-B3/2474638-B3_512_81815_51153.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_20x/2474638-B3/2474638-B3_512_81815_53201.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_20x/2474638-B3/2474638-B3_512_81815_55249.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_20x/2474638-B3/2474638-B3_512_81815_57297.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_20x/2474638-B3/2474638-B3_512_83863_20433.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_20x/2474638-B3/2474638-B3_512_83863_22481.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_20x/2474638-B3/2474638-B3_512_83863_24529.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_20x/2474638-B3/2474638-B3_512_83863_26577.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_20x/2474638-B3/2474638-B3_512_83863_28625.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_20x/2474638-B3/2474638-B3_512_83863_30673.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_20x/2474638-B3/2474638-B3_512_83863_32721.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_20x/2474638-B3/2474638-B3_512_83863_34769.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_20x/2474638-B3/2474638-B3_512_83863_36817.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_20x/2474638-B3/2474638-B3_512_83863_38865.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_20x/2474638-B3/2474638-B3_512_83863_40913.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_20x/2474638-B3/2474638-B3_512_83863_42961.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_20x/2474638-B3/2474638-B3_512_83863_45009.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_20x/2474638-B3/2474638-B3_512_83863_47057.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_20x/2474638-B3/2474638-B3_512_83863_49105.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_20x/2474638-B3/2474638-B3_512_83863_51153.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_20x/2474638-B3/2474638-B3_512_83863_53201.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_20x/2474638-B3/2474638-B3_512_83863_55249.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_20x/2474638-B3/2474638-B3_512_83863_57297.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_20x/2474638-B3/2474638-B3_512_85911_18385.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_20x/2474638-B3/2474638-B3_512_85911_20433.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_20x/2474638-B3/2474638-B3_512_85911_22481.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_20x/2474638-B3/2474638-B3_512_85911_24529.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_20x/2474638-B3/2474638-B3_512_85911_26577.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_20x/2474638-B3/2474638-B3_512_85911_28625.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_20x/2474638-B3/2474638-B3_512_85911_30673.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_20x/2474638-B3/2474638-B3_512_85911_32721.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_20x/2474638-B3/2474638-B3_512_85911_34769.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_20x/2474638-B3/2474638-B3_512_85911_36817.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_20x/2474638-B3/2474638-B3_512_85911_38865.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_20x/2474638-B3/2474638-B3_512_85911_40913.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_20x/2474638-B3/2474638-B3_512_85911_42961.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_20x/2474638-B3/2474638-B3_512_85911_45009.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_20x/2474638-B3/2474638-B3_512_85911_47057.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_20x/2474638-B3/2474638-B3_512_85911_49105.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_20x/2474638-B3/2474638-B3_512_85911_51153.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_20x/2474638-B3/2474638-B3_512_85911_53201.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_20x/2474638-B3/2474638-B3_512_85911_55249.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_20x/2474638-B3/2474638-B3_512_85911_57297.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_20x/2474638-B3/2474638-B3_512_87959_18385.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_20x/2474638-B3/2474638-B3_512_87959_20433.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_20x/2474638-B3/2474638-B3_512_87959_22481.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_20x/2474638-B3/2474638-B3_512_87959_24529.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_20x/2474638-B3/2474638-B3_512_87959_26577.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_20x/2474638-B3/2474638-B3_512_87959_28625.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_20x/2474638-B3/2474638-B3_512_87959_30673.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_20x/2474638-B3/2474638-B3_512_87959_32721.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_20x/2474638-B3/2474638-B3_512_87959_34769.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_20x/2474638-B3/2474638-B3_512_87959_36817.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_20x/2474638-B3/2474638-B3_512_87959_38865.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_20x/2474638-B3/2474638-B3_512_87959_40913.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_20x/2474638-B3/2474638-B3_512_87959_42961.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_20x/2474638-B3/2474638-B3_512_87959_45009.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_20x/2474638-B3/2474638-B3_512_87959_57297.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_20x/2474638-B3/2474638-B3_512_90007_20433.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_20x/2474638-B3/2474638-B3_512_90007_22481.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_20x/2474638-B3/2474638-B3_512_90007_24529.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_20x/2474638-B3/2474638-B3_512_90007_26577.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_20x/2474638-B3/2474638-B3_512_90007_28625.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_20x/2474638-B3/2474638-B3_512_90007_30673.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_20x/2474638-B3/2474638-B3_512_90007_32721.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_20x/2474638-B3/2474638-B3_512_90007_34769.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_20x/2474638-B3/2474638-B3_512_90007_36817.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_20x/2474638-B3/2474638-B3_512_90007_38865.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_20x/2474638-B3/2474638-B3_512_90007_40913.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_20x/2474638-B3/2474638-B3_512_90007_49105.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_20x/2474638-B3/2474638-B3_512_90007_51153.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_20x/2474638-B3/2474638-B3_512_90007_53201.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_20x/2474638-B3/2474638-B3_512_90007_55249.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_20x/2474638-B3/2474638-B3_512_90007_57297.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_20x/2474638-B3/2474638-B3_512_90007_65489.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_20x/2474638-B3/2474638-B3_512_90007_67537.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_20x/2474638-B3/2474638-B3_512_92055_24529.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_20x/2474638-B3/2474638-B3_512_92055_26577.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_20x/2474638-B3/2474638-B3_512_92055_28625.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_20x/2474638-B3/2474638-B3_512_92055_30673.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_20x/2474638-B3/2474638-B3_512_92055_32721.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_20x/2474638-B3/2474638-B3_512_92055_34769.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_20x/2474638-B3/2474638-B3_512_92055_36817.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_20x/2474638-B3/2474638-B3_512_92055_38865.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_20x/2474638-B3/2474638-B3_512_92055_40913.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_20x/2474638-B3/2474638-B3_512_92055_49105.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_20x/2474638-B3/2474638-B3_512_92055_51153.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_20x/2474638-B3/2474638-B3_512_92055_53201.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_20x/2474638-B3/2474638-B3_512_92055_55249.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_20x/2474638-B3/2474638-B3_512_92055_57297.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_20x/2474638-B3/2474638-B3_512_92055_59345.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_20x/2474638-B3/2474638-B3_512_92055_61393.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_20x/2474638-B3/2474638-B3_512_92055_63441.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_20x/2474638-B3/2474638-B3_512_92055_65489.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_20x/2474638-B3/2474638-B3_512_92055_67537.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_20x/2474638-B3/2474638-B3_512_94103_28625.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_20x/2474638-B3/2474638-B3_512_94103_30673.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_20x/2474638-B3/2474638-B3_512_94103_32721.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_20x/2474638-B3/2474638-B3_512_94103_34769.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_20x/2474638-B3/2474638-B3_512_94103_36817.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_20x/2474638-B3/2474638-B3_512_94103_38865.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_20x/2474638-B3/2474638-B3_512_94103_40913.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_20x/2474638-B3/2474638-B3_512_94103_42961.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_20x/2474638-B3/2474638-B3_512_94103_47057.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_20x/2474638-B3/2474638-B3_512_94103_49105.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_20x/2474638-B3/2474638-B3_512_94103_51153.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_20x/2474638-B3/2474638-B3_512_94103_53201.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_20x/2474638-B3/2474638-B3_512_94103_55249.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_20x/2474638-B3/2474638-B3_512_94103_59345.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_20x/2474638-B3/2474638-B3_512_94103_61393.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_20x/2474638-B3/2474638-B3_512_94103_63441.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_20x/2474638-B3/2474638-B3_512_94103_65489.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_20x/2474638-B3/2474638-B3_512_96151_30673.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_20x/2474638-B3/2474638-B3_512_96151_32721.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_20x/2474638-B3/2474638-B3_512_96151_34769.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_20x/2474638-B3/2474638-B3_512_96151_36817.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_20x/2474638-B3/2474638-B3_512_96151_38865.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_20x/2474638-B3/2474638-B3_512_96151_40913.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_20x/2474638-B3/2474638-B3_512_96151_42961.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_20x/2474638-B3/2474638-B3_512_96151_45009.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_20x/2474638-B3/2474638-B3_512_96151_49105.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_20x/2474638-B3/2474638-B3_512_96151_51153.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_20x/2474638-B3/2474638-B3_512_96151_53201.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_20x/2474638-B3/2474638-B3_512_96151_55249.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_20x/2474638-B3/2474638-B3_512_96151_57297.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_20x/2474638-B3/2474638-B3_512_96151_59345.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_20x/2474638-B3/2474638-B3_512_96151_61393.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_20x/2474638-B3/2474638-B3_512_96151_63441.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_20x/2474638-B3/2474638-B3_512_96151_65489.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_20x/2474638-B3/2474638-B3_512_98199_28625.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_20x/2474638-B3/2474638-B3_512_98199_30673.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_20x/2474638-B3/2474638-B3_512_98199_32721.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_20x/2474638-B3/2474638-B3_512_98199_34769.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_20x/2474638-B3/2474638-B3_512_98199_36817.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_20x/2474638-B3/2474638-B3_512_98199_38865.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_20x/2474638-B3/2474638-B3_512_98199_40913.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_20x/2474638-B3/2474638-B3_512_98199_42961.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_20x/2474638-B3/2474638-B3_512_98199_45009.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_20x/2474638-B3/2474638-B3_512_98199_47057.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_20x/2474638-B3/2474638-B3_512_98199_49105.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_20x/2474638-B3/2474638-B3_512_98199_51153.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_20x/2474638-B3/2474638-B3_512_98199_53201.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_20x/2474638-B3/2474638-B3_512_98199_55249.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_20x/2474638-B3/2474638-B3_512_98199_57297.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_20x/2474638-B3/2474638-B3_512_98199_59345.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_20x/2474638-B3/2474638-B3_512_98199_61393.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_20x/2474638-B3/2474638-B3_512_98199_63441.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_10x/2474638-B3/2474638-B3_1024_102295_30673.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_10x/2474638-B3/2474638-B3_1024_102295_34769.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_10x/2474638-B3/2474638-B3_1024_102295_38865.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_10x/2474638-B3/2474638-B3_1024_102295_42961.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_10x/2474638-B3/2474638-B3_1024_102295_47057.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_10x/2474638-B3/2474638-B3_1024_102295_51153.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_10x/2474638-B3/2474638-B3_1024_11793_21872.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_10x/2474638-B3/2474638-B3_1024_11793_25968.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_10x/2474638-B3/2474638-B3_1024_11793_30064.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_10x/2474638-B3/2474638-B3_1024_11793_34160.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_10x/2474638-B3/2474638-B3_1024_11793_38256.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_10x/2474638-B3/2474638-B3_1024_11793_42352.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_10x/2474638-B3/2474638-B3_1024_11793_46448.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_10x/2474638-B3/2474638-B3_1024_15889_17776.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_10x/2474638-B3/2474638-B3_1024_15889_21872.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_10x/2474638-B3/2474638-B3_1024_15889_30064.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_10x/2474638-B3/2474638-B3_1024_15889_34160.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_10x/2474638-B3/2474638-B3_1024_15889_38256.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_10x/2474638-B3/2474638-B3_1024_15889_42352.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_10x/2474638-B3/2474638-B3_1024_15889_46448.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_10x/2474638-B3/2474638-B3_1024_19985_13680.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_10x/2474638-B3/2474638-B3_1024_19985_17776.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_10x/2474638-B3/2474638-B3_1024_19985_21872.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_10x/2474638-B3/2474638-B3_1024_19985_25968.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_10x/2474638-B3/2474638-B3_1024_19985_30064.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_10x/2474638-B3/2474638-B3_1024_19985_34160.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_10x/2474638-B3/2474638-B3_1024_19985_38256.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_10x/2474638-B3/2474638-B3_1024_19985_42352.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_10x/2474638-B3/2474638-B3_1024_19985_46448.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_10x/2474638-B3/2474638-B3_1024_24081_13680.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_10x/2474638-B3/2474638-B3_1024_24081_17776.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_10x/2474638-B3/2474638-B3_1024_24081_21872.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_10x/2474638-B3/2474638-B3_1024_24081_25968.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_10x/2474638-B3/2474638-B3_1024_24081_30064.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_10x/2474638-B3/2474638-B3_1024_24081_34160.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_10x/2474638-B3/2474638-B3_1024_24081_38256.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_10x/2474638-B3/2474638-B3_1024_24081_42352.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_10x/2474638-B3/2474638-B3_1024_24081_46448.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_10x/2474638-B3/2474638-B3_1024_24081_50544.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_10x/2474638-B3/2474638-B3_1024_24081_9584.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_10x/2474638-B3/2474638-B3_1024_28177_13680.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_10x/2474638-B3/2474638-B3_1024_28177_17776.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_10x/2474638-B3/2474638-B3_1024_28177_21872.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_10x/2474638-B3/2474638-B3_1024_28177_25968.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_10x/2474638-B3/2474638-B3_1024_28177_30064.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_10x/2474638-B3/2474638-B3_1024_28177_34160.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_10x/2474638-B3/2474638-B3_1024_28177_38256.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_10x/2474638-B3/2474638-B3_1024_28177_42352.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_10x/2474638-B3/2474638-B3_1024_28177_46448.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_10x/2474638-B3/2474638-B3_1024_28177_54640.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_10x/2474638-B3/2474638-B3_1024_28177_9584.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_10x/2474638-B3/2474638-B3_1024_32273_13680.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_10x/2474638-B3/2474638-B3_1024_32273_17776.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_10x/2474638-B3/2474638-B3_1024_32273_21872.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_10x/2474638-B3/2474638-B3_1024_32273_25968.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_10x/2474638-B3/2474638-B3_1024_32273_30064.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_10x/2474638-B3/2474638-B3_1024_32273_42352.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_10x/2474638-B3/2474638-B3_1024_32273_46448.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_10x/2474638-B3/2474638-B3_1024_32273_50544.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_10x/2474638-B3/2474638-B3_1024_32273_54640.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_10x/2474638-B3/2474638-B3_1024_36369_21872.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_10x/2474638-B3/2474638-B3_1024_36369_25968.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_10x/2474638-B3/2474638-B3_1024_36369_30064.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_10x/2474638-B3/2474638-B3_1024_36369_38256.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_10x/2474638-B3/2474638-B3_1024_36369_42352.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_10x/2474638-B3/2474638-B3_1024_36369_46448.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_10x/2474638-B3/2474638-B3_1024_36369_50544.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_10x/2474638-B3/2474638-B3_1024_36369_54640.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_10x/2474638-B3/2474638-B3_1024_40465_17776.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_10x/2474638-B3/2474638-B3_1024_40465_21872.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_10x/2474638-B3/2474638-B3_1024_40465_25968.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_10x/2474638-B3/2474638-B3_1024_40465_30064.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_10x/2474638-B3/2474638-B3_1024_40465_34160.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_10x/2474638-B3/2474638-B3_1024_40465_38256.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_10x/2474638-B3/2474638-B3_1024_40465_42352.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_10x/2474638-B3/2474638-B3_1024_40465_46448.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_10x/2474638-B3/2474638-B3_1024_40465_50544.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_10x/2474638-B3/2474638-B3_1024_44561_21872.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_10x/2474638-B3/2474638-B3_1024_44561_25968.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_10x/2474638-B3/2474638-B3_1024_44561_30064.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_10x/2474638-B3/2474638-B3_1024_44561_34160.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_10x/2474638-B3/2474638-B3_1024_44561_38256.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_10x/2474638-B3/2474638-B3_1024_44561_42352.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_10x/2474638-B3/2474638-B3_1024_48657_21872.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_10x/2474638-B3/2474638-B3_1024_48657_25968.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_10x/2474638-B3/2474638-B3_1024_48657_30064.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_10x/2474638-B3/2474638-B3_1024_48657_34160.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_10x/2474638-B3/2474638-B3_1024_69527_34769.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_10x/2474638-B3/2474638-B3_1024_69527_38865.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_10x/2474638-B3/2474638-B3_1024_69527_42961.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_10x/2474638-B3/2474638-B3_1024_69527_47057.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_10x/2474638-B3/2474638-B3_1024_69527_55249.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_10x/2474638-B3/2474638-B3_1024_73623_26577.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_10x/2474638-B3/2474638-B3_1024_73623_30673.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_10x/2474638-B3/2474638-B3_1024_73623_38865.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_10x/2474638-B3/2474638-B3_1024_73623_42961.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_10x/2474638-B3/2474638-B3_1024_73623_47057.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_10x/2474638-B3/2474638-B3_1024_73623_51153.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_10x/2474638-B3/2474638-B3_1024_73623_55249.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_10x/2474638-B3/2474638-B3_1024_77719_22481.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_10x/2474638-B3/2474638-B3_1024_77719_26577.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_10x/2474638-B3/2474638-B3_1024_77719_30673.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_10x/2474638-B3/2474638-B3_1024_77719_34769.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_10x/2474638-B3/2474638-B3_1024_77719_38865.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_10x/2474638-B3/2474638-B3_1024_77719_42961.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_10x/2474638-B3/2474638-B3_1024_77719_47057.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_10x/2474638-B3/2474638-B3_1024_77719_51153.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_10x/2474638-B3/2474638-B3_1024_77719_55249.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_10x/2474638-B3/2474638-B3_1024_81815_18385.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_10x/2474638-B3/2474638-B3_1024_81815_22481.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_10x/2474638-B3/2474638-B3_1024_81815_26577.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_10x/2474638-B3/2474638-B3_1024_81815_30673.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_10x/2474638-B3/2474638-B3_1024_81815_34769.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_10x/2474638-B3/2474638-B3_1024_81815_38865.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_10x/2474638-B3/2474638-B3_1024_81815_42961.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_10x/2474638-B3/2474638-B3_1024_81815_47057.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_10x/2474638-B3/2474638-B3_1024_81815_51153.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_10x/2474638-B3/2474638-B3_1024_81815_55249.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_10x/2474638-B3/2474638-B3_1024_85911_18385.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_10x/2474638-B3/2474638-B3_1024_85911_22481.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_10x/2474638-B3/2474638-B3_1024_85911_26577.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_10x/2474638-B3/2474638-B3_1024_85911_30673.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_10x/2474638-B3/2474638-B3_1024_85911_34769.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_10x/2474638-B3/2474638-B3_1024_85911_38865.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_10x/2474638-B3/2474638-B3_1024_85911_42961.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_10x/2474638-B3/2474638-B3_1024_85911_47057.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_10x/2474638-B3/2474638-B3_1024_85911_51153.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_10x/2474638-B3/2474638-B3_1024_90007_22481.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_10x/2474638-B3/2474638-B3_1024_90007_26577.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_10x/2474638-B3/2474638-B3_1024_90007_30673.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_10x/2474638-B3/2474638-B3_1024_90007_34769.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_10x/2474638-B3/2474638-B3_1024_90007_38865.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_10x/2474638-B3/2474638-B3_1024_90007_47057.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_10x/2474638-B3/2474638-B3_1024_90007_51153.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_10x/2474638-B3/2474638-B3_1024_90007_55249.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_10x/2474638-B3/2474638-B3_1024_90007_59345.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_10x/2474638-B3/2474638-B3_1024_90007_63441.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_10x/2474638-B3/2474638-B3_1024_94103_26577.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_10x/2474638-B3/2474638-B3_1024_94103_30673.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_10x/2474638-B3/2474638-B3_1024_94103_34769.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_10x/2474638-B3/2474638-B3_1024_94103_42961.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_10x/2474638-B3/2474638-B3_1024_94103_47057.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_10x/2474638-B3/2474638-B3_1024_94103_51153.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_10x/2474638-B3/2474638-B3_1024_94103_55249.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_10x/2474638-B3/2474638-B3_1024_94103_59345.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_10x/2474638-B3/2474638-B3_1024_94103_63441.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_10x/2474638-B3/2474638-B3_1024_98199_26577.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_10x/2474638-B3/2474638-B3_1024_98199_30673.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_10x/2474638-B3/2474638-B3_1024_98199_34769.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_10x/2474638-B3/2474638-B3_1024_98199_38865.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_10x/2474638-B3/2474638-B3_1024_98199_42961.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_10x/2474638-B3/2474638-B3_1024_98199_47057.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_10x/2474638-B3/2474638-B3_1024_98199_51153.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_10x/2474638-B3/2474638-B3_1024_98199_55249.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None
+/private/ljh-data/shared/data/patches_10x/2474638-B3/2474638-B3_1024_98199_59345.png
+  PIL:ValueError:Decompressed data too large for PngImagePlugin.MAX_TEXT_CHUNK
+  CV2:ValueError:cv2.imread returned None

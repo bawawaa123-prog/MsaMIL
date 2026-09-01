@@ -1,0 +1,6 @@
+{
+  "resumed_at": "2026-01-26T22:54:18.309434",
+  "resume_path": "/private/ljh-data/shared/MsaMIL/MsaMIL_Net/results/NMFEM_distill_phikon_q8/run_20260119_225055/epoch_014.pth",
+  "start_epoch": 15,
+  "best_val_auc": 0.9834280303030303
+}

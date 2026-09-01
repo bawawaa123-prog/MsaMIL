@@ -1,0 +1,1244 @@
+{
+  "when": "2026-01-16T14:44:04.584797",
+  "ckpt": "/private/ljh-data/shared/MsaMIL/MsaMIL_Net/results/NMFEM_distill_phikon/run_20260107_204113/best_NMFEM.pth",
+  "eval_config": {
+    "ckpt": "results/NMFEM_distill_phikon/run_20260107_204113/best_NMFEM.pth",
+    "split_csv": "splits/YiYuan/splits_phikon_03.csv",
+    "fold": 0,
+    "dataset_csv": null,
+    "patches_20x": "/private/ljh-data/shared/data/patches_20x",
+    "patches_10x": "/private/ljh-data/shared/data/patches_10x",
+    "patches_5x": "/private/ljh-data/shared/data/patches_5x",
+    "sort_order": "xy",
+    "input_size": 512,
+    "bag_size": 512,
+    "patch_batch_size": 64,
+    "deterministic_eval": false,
+    "seed": 42,
+    "device": "auto",
+    "amp": true,
+    "val_amp": false,
+    "out": "results/eval_end2end/run_03.json",
+    "num_workers": 6,
+    "save_per_sample": true
+  },
+  "label_names": [
+    "Adenocarcinoma",
+    "NonAdenocarcinoma"
+  ],
+  "metrics": {
+    "overall": {
+      "n": 97,
+      "skipped_nonfinite": 0,
+      "skipped_total": 97,
+      "loss": 0.19973134714149937,
+      "acc": 0.9484536082474226,
+      "auc": 0.9895833333333334,
+      "f1_macro": 0.9412334908518115,
+      "f1_weighted": 0.947816539065457,
+      "f1_micro": 0.9484536082474226
+    },
+    "per_class": {
+      "Adenocarcinoma": {
+        "support": 64,
+        "loss": 0.1468222599942237,
+        "acc": 0.984375,
+        "auc": 0.9895833333333333,
+        "precision": 0.9402985074626866,
+        "recall": 0.984375,
+        "f1": 0.9618320610687023
+      },
+      "NonAdenocarcinoma": {
+        "support": 33,
+        "loss": 0.30234291009379155,
+        "acc": 0.8787878787878788,
+        "auc": 0.9895833333333334,
+        "precision": 0.9666666666666667,
+        "recall": 0.8787878787878788,
+        "f1": 0.9206349206349207
+      }
+    },
+    "confusion_matrix": {
+      "labels": [
+        "Adenocarcinoma",
+        "NonAdenocarcinoma"
+      ],
+      "matrix": [
+        [
+          63,
+          1
+        ],
+        [
+          4,
+          29
+        ]
+      ]
+    },
+    "per_sample": [
+      {
+        "wsi_id": "25012760B2",
+        "y": 0,
+        "y_name": "Adenocarcinoma",
+        "pred": 0,
+        "pred_name": "Adenocarcinoma",
+        "probs": [
+          0.9069893956184387,
+          0.09301063418388367
+        ],
+        "loss": 0.0976245179772377
+      },
+      {
+        "wsi_id": "2474189-B7",
+        "y": 0,
+        "y_name": "Adenocarcinoma",
+        "pred": 0,
+        "pred_name": "Adenocarcinoma",
+        "probs": [
+          0.8989099860191345,
+          0.10109000653028488
+        ],
+        "loss": 0.10657240450382233
+      },
+      {
+        "wsi_id": "25021911B2",
+        "y": 0,
+        "y_name": "Adenocarcinoma",
+        "pred": 0,
+        "pred_name": "Adenocarcinoma",
+        "probs": [
+          0.9043270349502563,
+          0.09567295014858246
+        ],
+        "loss": 0.10056423395872116
+      },
+      {
+        "wsi_id": "25020263B2",
+        "y": 0,
+        "y_name": "Adenocarcinoma",
+        "pred": 0,
+        "pred_name": "Adenocarcinoma",
+        "probs": [
+          0.907132089138031,
+          0.09286783635616302
+        ],
+        "loss": 0.09746718406677246
+      },
+      {
+        "wsi_id": "2465795-B4",
+        "y": 0,
+        "y_name": "Adenocarcinoma",
+        "pred": 0,
+        "pred_name": "Adenocarcinoma",
+        "probs": [
+          0.9073998928070068,
+          0.09260011464357376
+        ],
+        "loss": 0.09717202931642532
+      },
+      {
+        "wsi_id": "25058713B2",
+        "y": 1,
+        "y_name": "NonAdenocarcinoma",
+        "pred": 1,
+        "pred_name": "NonAdenocarcinoma",
+        "probs": [
+          0.02834196947515011,
+          0.9716579914093018
+        ],
+        "loss": 0.02875141240656376
+      },
+      {
+        "wsi_id": "2469024-B",
+        "y": 0,
+        "y_name": "Adenocarcinoma",
+        "pred": 0,
+        "pred_name": "Adenocarcinoma",
+        "probs": [
+          0.9007481336593628,
+          0.09925186634063721
+        ],
+        "loss": 0.10452958941459656
+      },
+      {
+        "wsi_id": "25032179B3",
+        "y": 1,
+        "y_name": "NonAdenocarcinoma",
+        "pred": 1,
+        "pred_name": "NonAdenocarcinoma",
+        "probs": [
+          0.05385685712099075,
+          0.9461430907249451
+        ],
+        "loss": 0.05536143481731415
+      },
+      {
+        "wsi_id": "25002510B2",
+        "y": 1,
+        "y_name": "NonAdenocarcinoma",
+        "pred": 1,
+        "pred_name": "NonAdenocarcinoma",
+        "probs": [
+          0.02882140316069126,
+          0.9711786508560181
+        ],
+        "loss": 0.02924484573304653
+      },
+      {
+        "wsi_id": "25021538B2",
+        "y": 0,
+        "y_name": "Adenocarcinoma",
+        "pred": 0,
+        "pred_name": "Adenocarcinoma",
+        "probs": [
+          0.9070444107055664,
+          0.09295555204153061
+        ],
+        "loss": 0.09756385535001755
+      },
+      {
+        "wsi_id": "25033486B",
+        "y": 1,
+        "y_name": "NonAdenocarcinoma",
+        "pred": 1,
+        "pred_name": "NonAdenocarcinoma",
+        "probs": [
+          0.028154978528618813,
+          0.9718450903892517
+        ],
+        "loss": 0.0285588838160038
+      },
+      {
+        "wsi_id": "25025953B2",
+        "y": 0,
+        "y_name": "Adenocarcinoma",
+        "pred": 0,
+        "pred_name": "Adenocarcinoma",
+        "probs": [
+          0.8970034718513489,
+          0.10299654304981232
+        ],
+        "loss": 0.10869552940130234
+      },
+      {
+        "wsi_id": "2460960-B",
+        "y": 0,
+        "y_name": "Adenocarcinoma",
+        "pred": 0,
+        "pred_name": "Adenocarcinoma",
+        "probs": [
+          0.9080632925033569,
+          0.09193665534257889
+        ],
+        "loss": 0.09644117951393127
+      },
+      {
+        "wsi_id": "25026103B3",
+        "y": 0,
+        "y_name": "Adenocarcinoma",
+        "pred": 0,
+        "pred_name": "Adenocarcinoma",
+        "probs": [
+          0.9075270891189575,
+          0.09247292578220367
+        ],
+        "loss": 0.09703183174133301
+      },
+      {
+        "wsi_id": "2476299-B2",
+        "y": 1,
+        "y_name": "NonAdenocarcinoma",
+        "pred": 1,
+        "pred_name": "NonAdenocarcinoma",
+        "probs": [
+          0.03377826139330864,
+          0.9662217497825623
+        ],
+        "loss": 0.034361887723207474
+      },
+      {
+        "wsi_id": "25019508B4",
+        "y": 0,
+        "y_name": "Adenocarcinoma",
+        "pred": 0,
+        "pred_name": "Adenocarcinoma",
+        "probs": [
+          0.9066846966743469,
+          0.09331528097391129
+        ],
+        "loss": 0.09796050190925598
+      },
+      {
+        "wsi_id": "25015496B",
+        "y": 1,
+        "y_name": "NonAdenocarcinoma",
+        "pred": 1,
+        "pred_name": "NonAdenocarcinoma",
+        "probs": [
+          0.028049368411302567,
+          0.9719505906105042
+        ],
+        "loss": 0.02845032326877117
+      },
+      {
+        "wsi_id": "25034940B9",
+        "y": 1,
+        "y_name": "NonAdenocarcinoma",
+        "pred": 1,
+        "pred_name": "NonAdenocarcinoma",
+        "probs": [
+          0.028276970610022545,
+          0.9717230200767517
+        ],
+        "loss": 0.0286844614893198
+      },
+      {
+        "wsi_id": "25024875B2",
+        "y": 1,
+        "y_name": "NonAdenocarcinoma",
+        "pred": 1,
+        "pred_name": "NonAdenocarcinoma",
+        "probs": [
+          0.027694186195731163,
+          0.9723057746887207
+        ],
+        "loss": 0.028084933757781982
+      },
+      {
+        "wsi_id": "25055380B2",
+        "y": 1,
+        "y_name": "NonAdenocarcinoma",
+        "pred": 1,
+        "pred_name": "NonAdenocarcinoma",
+        "probs": [
+          0.029024172574281693,
+          0.9709758758544922
+        ],
+        "loss": 0.02945367991924286
+      },
+      {
+        "wsi_id": "25059686B2",
+        "y": 1,
+        "y_name": "NonAdenocarcinoma",
+        "pred": 0,
+        "pred_name": "Adenocarcinoma",
+        "probs": [
+          0.9041883945465088,
+          0.09581160545349121
+        ],
+        "loss": 2.3453714847564697
+      },
+      {
+        "wsi_id": "25028010B2a",
+        "y": 1,
+        "y_name": "NonAdenocarcinoma",
+        "pred": 0,
+        "pred_name": "Adenocarcinoma",
+        "probs": [
+          0.9039735794067383,
+          0.0960264801979065
+        ],
+        "loss": 2.3431313037872314
+      },
+      {
+        "wsi_id": "25047088B",
+        "y": 1,
+        "y_name": "NonAdenocarcinoma",
+        "pred": 1,
+        "pred_name": "NonAdenocarcinoma",
+        "probs": [
+          0.028601447120308876,
+          0.9713985323905945
+        ],
+        "loss": 0.029018482193350792
+      },
+      {
+        "wsi_id": "2486104-B1",
+        "y": 0,
+        "y_name": "Adenocarcinoma",
+        "pred": 0,
+        "pred_name": "Adenocarcinoma",
+        "probs": [
+          0.9073596596717834,
+          0.09264037013053894
+        ],
+        "loss": 0.09721638262271881
+      },
+      {
+        "wsi_id": "2462598-B",
+        "y": 0,
+        "y_name": "Adenocarcinoma",
+        "pred": 0,
+        "pred_name": "Adenocarcinoma",
+        "probs": [
+          0.9061282277107239,
+          0.09387177973985672
+        ],
+        "loss": 0.0985744521021843
+      },
+      {
+        "wsi_id": "25045625B2",
+        "y": 1,
+        "y_name": "NonAdenocarcinoma",
+        "pred": 1,
+        "pred_name": "NonAdenocarcinoma",
+        "probs": [
+          0.028019530698657036,
+          0.9719803929328918
+        ],
+        "loss": 0.02841961942613125
+      },
+      {
+        "wsi_id": "25026144B2",
+        "y": 1,
+        "y_name": "NonAdenocarcinoma",
+        "pred": 1,
+        "pred_name": "NonAdenocarcinoma",
+        "probs": [
+          0.0341426357626915,
+          0.9658573269844055
+        ],
+        "loss": 0.03473915532231331
+      },
+      {
+        "wsi_id": "25022278B2",
+        "y": 0,
+        "y_name": "Adenocarcinoma",
+        "pred": 0,
+        "pred_name": "Adenocarcinoma",
+        "probs": [
+          0.9021317362785339,
+          0.09786825627088547
+        ],
+        "loss": 0.10299474000930786
+      },
+      {
+        "wsi_id": "25026075B2",
+        "y": 0,
+        "y_name": "Adenocarcinoma",
+        "pred": 0,
+        "pred_name": "Adenocarcinoma",
+        "probs": [
+          0.9068928956985474,
+          0.09310708194971085
+        ],
+        "loss": 0.09773090481758118
+      },
+      {
+        "wsi_id": "25019283B2",
+        "y": 0,
+        "y_name": "Adenocarcinoma",
+        "pred": 0,
+        "pred_name": "Adenocarcinoma",
+        "probs": [
+          0.9071109890937805,
+          0.0928889736533165
+        ],
+        "loss": 0.09749043732881546
+      },
+      {
+        "wsi_id": "2483768-B4",
+        "y": 0,
+        "y_name": "Adenocarcinoma",
+        "pred": 0,
+        "pred_name": "Adenocarcinoma",
+        "probs": [
+          0.9065635800361633,
+          0.0934363603591919
+        ],
+        "loss": 0.09809408336877823
+      },
+      {
+        "wsi_id": "2482883-B2",
+        "y": 1,
+        "y_name": "NonAdenocarcinoma",
+        "pred": 1,
+        "pred_name": "NonAdenocarcinoma",
+        "probs": [
+          0.02910885028541088,
+          0.9708911180496216
+        ],
+        "loss": 0.029540950432419777
+      },
+      {
+        "wsi_id": "25022038B2",
+        "y": 0,
+        "y_name": "Adenocarcinoma",
+        "pred": 0,
+        "pred_name": "Adenocarcinoma",
+        "probs": [
+          0.9064618945121765,
+          0.0935380831360817
+        ],
+        "loss": 0.09820625931024551
+      },
+      {
+        "wsi_id": "25017320B2",
+        "y": 0,
+        "y_name": "Adenocarcinoma",
+        "pred": 0,
+        "pred_name": "Adenocarcinoma",
+        "probs": [
+          0.9079851508140564,
+          0.09201478958129883
+        ],
+        "loss": 0.09652724117040634
+      },
+      {
+        "wsi_id": "25027718B2",
+        "y": 1,
+        "y_name": "NonAdenocarcinoma",
+        "pred": 1,
+        "pred_name": "NonAdenocarcinoma",
+        "probs": [
+          0.028293823823332787,
+          0.9717061519622803
+        ],
+        "loss": 0.028701836243271828
+      },
+      {
+        "wsi_id": "2472500-B2",
+        "y": 0,
+        "y_name": "Adenocarcinoma",
+        "pred": 0,
+        "pred_name": "Adenocarcinoma",
+        "probs": [
+          0.9056323766708374,
+          0.09436765313148499
+        ],
+        "loss": 0.09912185370922089
+      },
+      {
+        "wsi_id": "25034940B12",
+        "y": 1,
+        "y_name": "NonAdenocarcinoma",
+        "pred": 1,
+        "pred_name": "NonAdenocarcinoma",
+        "probs": [
+          0.0287794079631567,
+          0.9712206125259399
+        ],
+        "loss": 0.02920166216790676
+      },
+      {
+        "wsi_id": "25026797B2",
+        "y": 1,
+        "y_name": "NonAdenocarcinoma",
+        "pred": 1,
+        "pred_name": "NonAdenocarcinoma",
+        "probs": [
+          0.03279297798871994,
+          0.9672070741653442
+        ],
+        "loss": 0.033342693001031876
+      },
+      {
+        "wsi_id": "2468417-B2",
+        "y": 0,
+        "y_name": "Adenocarcinoma",
+        "pred": 0,
+        "pred_name": "Adenocarcinoma",
+        "probs": [
+          0.9079082012176514,
+          0.09209179133176804
+        ],
+        "loss": 0.09661198407411575
+      },
+      {
+        "wsi_id": "2461698-B",
+        "y": 0,
+        "y_name": "Adenocarcinoma",
+        "pred": 0,
+        "pred_name": "Adenocarcinoma",
+        "probs": [
+          0.9071485996246338,
+          0.092851422727108
+        ],
+        "loss": 0.09744901955127716
+      },
+      {
+        "wsi_id": "25045403B",
+        "y": 1,
+        "y_name": "NonAdenocarcinoma",
+        "pred": 1,
+        "pred_name": "NonAdenocarcinoma",
+        "probs": [
+          0.028400003910064697,
+          0.9715999960899353
+        ],
+        "loss": 0.02881106361746788
+      },
+      {
+        "wsi_id": "25020257B2",
+        "y": 0,
+        "y_name": "Adenocarcinoma",
+        "pred": 0,
+        "pred_name": "Adenocarcinoma",
+        "probs": [
+          0.9059356451034546,
+          0.09406439960002899
+        ],
+        "loss": 0.09878700971603394
+      },
+      {
+        "wsi_id": "25028151B3",
+        "y": 1,
+        "y_name": "NonAdenocarcinoma",
+        "pred": 1,
+        "pred_name": "NonAdenocarcinoma",
+        "probs": [
+          0.02864518016576767,
+          0.9713548421859741
+        ],
+        "loss": 0.02906341291964054
+      },
+      {
+        "wsi_id": "2477949-B2",
+        "y": 0,
+        "y_name": "Adenocarcinoma",
+        "pred": 0,
+        "pred_name": "Adenocarcinoma",
+        "probs": [
+          0.9072163701057434,
+          0.09278366714715958
+        ],
+        "loss": 0.09737429022789001
+      },
+      {
+        "wsi_id": "25027181B3",
+        "y": 1,
+        "y_name": "NonAdenocarcinoma",
+        "pred": 1,
+        "pred_name": "NonAdenocarcinoma",
+        "probs": [
+          0.032783299684524536,
+          0.9672167301177979
+        ],
+        "loss": 0.03333266079425812
+      },
+      {
+        "wsi_id": "2488369-B2",
+        "y": 0,
+        "y_name": "Adenocarcinoma",
+        "pred": 0,
+        "pred_name": "Adenocarcinoma",
+        "probs": [
+          0.9048193097114563,
+          0.09518067538738251
+        ],
+        "loss": 0.10001999884843826
+      },
+      {
+        "wsi_id": "25026782B3",
+        "y": 1,
+        "y_name": "NonAdenocarcinoma",
+        "pred": 1,
+        "pred_name": "NonAdenocarcinoma",
+        "probs": [
+          0.02874062769114971,
+          0.971259355545044
+        ],
+        "loss": 0.029161717742681503
+      },
+      {
+        "wsi_id": "2466285-B",
+        "y": 0,
+        "y_name": "Adenocarcinoma",
+        "pred": 0,
+        "pred_name": "Adenocarcinoma",
+        "probs": [
+          0.9077413082122803,
+          0.09225868433713913
+        ],
+        "loss": 0.09679585695266724
+      },
+      {
+        "wsi_id": "2483215-B6",
+        "y": 0,
+        "y_name": "Adenocarcinoma",
+        "pred": 0,
+        "pred_name": "Adenocarcinoma",
+        "probs": [
+          0.9072296023368835,
+          0.09277040511369705
+        ],
+        "loss": 0.09735969454050064
+      },
+      {
+        "wsi_id": "25031281B2",
+        "y": 1,
+        "y_name": "NonAdenocarcinoma",
+        "pred": 0,
+        "pred_name": "Adenocarcinoma",
+        "probs": [
+          0.9044017195701599,
+          0.09559828788042068
+        ],
+        "loss": 2.3476004600524902
+      },
+      {
+        "wsi_id": "25021171B2",
+        "y": 0,
+        "y_name": "Adenocarcinoma",
+        "pred": 0,
+        "pred_name": "Adenocarcinoma",
+        "probs": [
+          0.9071201682090759,
+          0.09287986159324646
+        ],
+        "loss": 0.09748037904500961
+      },
+      {
+        "wsi_id": "2460615-B4",
+        "y": 1,
+        "y_name": "NonAdenocarcinoma",
+        "pred": 1,
+        "pred_name": "NonAdenocarcinoma",
+        "probs": [
+          0.028408320620656013,
+          0.9715917110443115
+        ],
+        "loss": 0.02881963551044464
+      },
+      {
+        "wsi_id": "25017515B2",
+        "y": 0,
+        "y_name": "Adenocarcinoma",
+        "pred": 0,
+        "pred_name": "Adenocarcinoma",
+        "probs": [
+          0.9074211716651917,
+          0.09257882088422775
+        ],
+        "loss": 0.09714855998754501
+      },
+      {
+        "wsi_id": "2488330-B2",
+        "y": 0,
+        "y_name": "Adenocarcinoma",
+        "pred": 0,
+        "pred_name": "Adenocarcinoma",
+        "probs": [
+          0.9073740839958191,
+          0.09262589365243912
+        ],
+        "loss": 0.09720048308372498
+      },
+      {
+        "wsi_id": "2487558-B2",
+        "y": 0,
+        "y_name": "Adenocarcinoma",
+        "pred": 0,
+        "pred_name": "Adenocarcinoma",
+        "probs": [
+          0.9060584306716919,
+          0.09394152462482452
+        ],
+        "loss": 0.0986514687538147
+      },
+      {
+        "wsi_id": "2471963-B",
+        "y": 0,
+        "y_name": "Adenocarcinoma",
+        "pred": 0,
+        "pred_name": "Adenocarcinoma",
+        "probs": [
+          0.9068055748939514,
+          0.09319446235895157
+        ],
+        "loss": 0.09782722592353821
+      },
+      {
+        "wsi_id": "25016772B2",
+        "y": 0,
+        "y_name": "Adenocarcinoma",
+        "pred": 0,
+        "pred_name": "Adenocarcinoma",
+        "probs": [
+          0.9072546362876892,
+          0.09274537861347198
+        ],
+        "loss": 0.09733211249113083
+      },
+      {
+        "wsi_id": "2461700-B2",
+        "y": 0,
+        "y_name": "Adenocarcinoma",
+        "pred": 0,
+        "pred_name": "Adenocarcinoma",
+        "probs": [
+          0.9063968658447266,
+          0.09360306710004807
+        ],
+        "loss": 0.09827800840139389
+      },
+      {
+        "wsi_id": "2490978B2",
+        "y": 0,
+        "y_name": "Adenocarcinoma",
+        "pred": 0,
+        "pred_name": "Adenocarcinoma",
+        "probs": [
+          0.9057973027229309,
+          0.09420272707939148
+        ],
+        "loss": 0.09893970936536789
+      },
+      {
+        "wsi_id": "25019675B2",
+        "y": 1,
+        "y_name": "NonAdenocarcinoma",
+        "pred": 1,
+        "pred_name": "NonAdenocarcinoma",
+        "probs": [
+          0.02837107889354229,
+          0.9716289639472961
+        ],
+        "loss": 0.02878129668533802
+      },
+      {
+        "wsi_id": "2476358-B2",
+        "y": 0,
+        "y_name": "Adenocarcinoma",
+        "pred": 0,
+        "pred_name": "Adenocarcinoma",
+        "probs": [
+          0.907818615436554,
+          0.09218135476112366
+        ],
+        "loss": 0.0967106893658638
+      },
+      {
+        "wsi_id": "25026081B2",
+        "y": 0,
+        "y_name": "Adenocarcinoma",
+        "pred": 0,
+        "pred_name": "Adenocarcinoma",
+        "probs": [
+          0.9060686230659485,
+          0.09393137693405151
+        ],
+        "loss": 0.09864023327827454
+      },
+      {
+        "wsi_id": "2468105-B2",
+        "y": 0,
+        "y_name": "Adenocarcinoma",
+        "pred": 0,
+        "pred_name": "Adenocarcinoma",
+        "probs": [
+          0.9065883159637451,
+          0.09341171383857727
+        ],
+        "loss": 0.09806685149669647
+      },
+      {
+        "wsi_id": "2466584-B",
+        "y": 0,
+        "y_name": "Adenocarcinoma",
+        "pred": 0,
+        "pred_name": "Adenocarcinoma",
+        "probs": [
+          0.9077936410903931,
+          0.09220636636018753
+        ],
+        "loss": 0.09673817455768585
+      },
+      {
+        "wsi_id": "25014265B2",
+        "y": 0,
+        "y_name": "Adenocarcinoma",
+        "pred": 1,
+        "pred_name": "NonAdenocarcinoma",
+        "probs": [
+          0.040301792323589325,
+          0.9596982002258301
+        ],
+        "loss": 3.2113595008850098
+      },
+      {
+        "wsi_id": "25015867B2",
+        "y": 1,
+        "y_name": "NonAdenocarcinoma",
+        "pred": 1,
+        "pred_name": "NonAdenocarcinoma",
+        "probs": [
+          0.029928995296359062,
+          0.9700710773468018
+        ],
+        "loss": 0.030385952442884445
+      },
+      {
+        "wsi_id": "2475022-B",
+        "y": 0,
+        "y_name": "Adenocarcinoma",
+        "pred": 0,
+        "pred_name": "Adenocarcinoma",
+        "probs": [
+          0.9076321125030518,
+          0.09236788749694824
+        ],
+        "loss": 0.09691617637872696
+      },
+      {
+        "wsi_id": "25002898B2",
+        "y": 0,
+        "y_name": "Adenocarcinoma",
+        "pred": 0,
+        "pred_name": "Adenocarcinoma",
+        "probs": [
+          0.9073343276977539,
+          0.0926656574010849
+        ],
+        "loss": 0.09724428504705429
+      },
+      {
+        "wsi_id": "2488044-B3",
+        "y": 0,
+        "y_name": "Adenocarcinoma",
+        "pred": 0,
+        "pred_name": "Adenocarcinoma",
+        "probs": [
+          0.9066965579986572,
+          0.093303382396698
+        ],
+        "loss": 0.09794742614030838
+      },
+      {
+        "wsi_id": "25014311B2",
+        "y": 0,
+        "y_name": "Adenocarcinoma",
+        "pred": 0,
+        "pred_name": "Adenocarcinoma",
+        "probs": [
+          0.9074692130088806,
+          0.0925307646393776
+        ],
+        "loss": 0.09709566086530685
+      },
+      {
+        "wsi_id": "25019284B2",
+        "y": 0,
+        "y_name": "Adenocarcinoma",
+        "pred": 0,
+        "pred_name": "Adenocarcinoma",
+        "probs": [
+          0.9075583219528198,
+          0.09244169294834137
+        ],
+        "loss": 0.09699743241071701
+      },
+      {
+        "wsi_id": "2477814-B5",
+        "y": 0,
+        "y_name": "Adenocarcinoma",
+        "pred": 0,
+        "pred_name": "Adenocarcinoma",
+        "probs": [
+          0.907089352607727,
+          0.09291069954633713
+        ],
+        "loss": 0.0975143313407898
+      },
+      {
+        "wsi_id": "25014684B",
+        "y": 0,
+        "y_name": "Adenocarcinoma",
+        "pred": 0,
+        "pred_name": "Adenocarcinoma",
+        "probs": [
+          0.9039443135261536,
+          0.09605566412210464
+        ],
+        "loss": 0.1009874939918518
+      },
+      {
+        "wsi_id": "25018910B2",
+        "y": 0,
+        "y_name": "Adenocarcinoma",
+        "pred": 0,
+        "pred_name": "Adenocarcinoma",
+        "probs": [
+          0.9062849283218384,
+          0.09371505677700043
+        ],
+        "loss": 0.0984015017747879
+      },
+      {
+        "wsi_id": "25063700B",
+        "y": 1,
+        "y_name": "NonAdenocarcinoma",
+        "pred": 1,
+        "pred_name": "NonAdenocarcinoma",
+        "probs": [
+          0.027548380196094513,
+          0.9724516272544861
+        ],
+        "loss": 0.027934936806559563
+      },
+      {
+        "wsi_id": "2483868-B4",
+        "y": 0,
+        "y_name": "Adenocarcinoma",
+        "pred": 0,
+        "pred_name": "Adenocarcinoma",
+        "probs": [
+          0.9069518446922302,
+          0.09304814785718918
+        ],
+        "loss": 0.0976659283041954
+      },
+      {
+        "wsi_id": "2486262-B4",
+        "y": 0,
+        "y_name": "Adenocarcinoma",
+        "pred": 0,
+        "pred_name": "Adenocarcinoma",
+        "probs": [
+          0.9082959294319153,
+          0.09170402586460114
+        ],
+        "loss": 0.09618502855300903
+      },
+      {
+        "wsi_id": "25025788B2",
+        "y": 0,
+        "y_name": "Adenocarcinoma",
+        "pred": 0,
+        "pred_name": "Adenocarcinoma",
+        "probs": [
+          0.9071337580680847,
+          0.09286621958017349
+        ],
+        "loss": 0.09746535122394562
+      },
+      {
+        "wsi_id": "2485473-B2",
+        "y": 1,
+        "y_name": "NonAdenocarcinoma",
+        "pred": 1,
+        "pred_name": "NonAdenocarcinoma",
+        "probs": [
+          0.04315841570496559,
+          0.9568415880203247
+        ],
+        "loss": 0.04411745443940163
+      },
+      {
+        "wsi_id": "2464443-B",
+        "y": 0,
+        "y_name": "Adenocarcinoma",
+        "pred": 0,
+        "pred_name": "Adenocarcinoma",
+        "probs": [
+          0.9072979092597961,
+          0.09270212054252625
+        ],
+        "loss": 0.09728441387414932
+      },
+      {
+        "wsi_id": "2483850-B2",
+        "y": 1,
+        "y_name": "NonAdenocarcinoma",
+        "pred": 0,
+        "pred_name": "Adenocarcinoma",
+        "probs": [
+          0.8699167370796204,
+          0.13008329272270203
+        ],
+        "loss": 2.0395803451538086
+      },
+      {
+        "wsi_id": "25021277B4",
+        "y": 1,
+        "y_name": "NonAdenocarcinoma",
+        "pred": 1,
+        "pred_name": "NonAdenocarcinoma",
+        "probs": [
+          0.028714099898934364,
+          0.9712859392166138
+        ],
+        "loss": 0.029134392738342285
+      },
+      {
+        "wsi_id": "25025675B2",
+        "y": 0,
+        "y_name": "Adenocarcinoma",
+        "pred": 0,
+        "pred_name": "Adenocarcinoma",
+        "probs": [
+          0.906667947769165,
+          0.09333206713199615
+        ],
+        "loss": 0.09797898679971695
+      },
+      {
+        "wsi_id": "25013062B3",
+        "y": 0,
+        "y_name": "Adenocarcinoma",
+        "pred": 0,
+        "pred_name": "Adenocarcinoma",
+        "probs": [
+          0.907745897769928,
+          0.09225413203239441
+        ],
+        "loss": 0.09679076820611954
+      },
+      {
+        "wsi_id": "2469260-B3",
+        "y": 0,
+        "y_name": "Adenocarcinoma",
+        "pred": 0,
+        "pred_name": "Adenocarcinoma",
+        "probs": [
+          0.9070515036582947,
+          0.09294847398996353
+        ],
+        "loss": 0.09755606949329376
+      },
+      {
+        "wsi_id": "2466898-B2",
+        "y": 0,
+        "y_name": "Adenocarcinoma",
+        "pred": 0,
+        "pred_name": "Adenocarcinoma",
+        "probs": [
+          0.9071618318557739,
+          0.09283820539712906
+        ],
+        "loss": 0.09743442386388779
+      },
+      {
+        "wsi_id": "25054489B3",
+        "y": 1,
+        "y_name": "NonAdenocarcinoma",
+        "pred": 1,
+        "pred_name": "NonAdenocarcinoma",
+        "probs": [
+          0.02846190519630909,
+          0.9715381264686584
+        ],
+        "loss": 0.02887476608157158
+      },
+      {
+        "wsi_id": "2465396-B2",
+        "y": 0,
+        "y_name": "Adenocarcinoma",
+        "pred": 0,
+        "pred_name": "Adenocarcinoma",
+        "probs": [
+          0.9079516530036926,
+          0.09204833954572678
+        ],
+        "loss": 0.0965641438961029
+      },
+      {
+        "wsi_id": "25027181B5",
+        "y": 1,
+        "y_name": "NonAdenocarcinoma",
+        "pred": 1,
+        "pred_name": "NonAdenocarcinoma",
+        "probs": [
+          0.02909960225224495,
+          0.9709004163742065
+        ],
+        "loss": 0.029531344771385193
+      },
+      {
+        "wsi_id": "2460242-B2",
+        "y": 0,
+        "y_name": "Adenocarcinoma",
+        "pred": 0,
+        "pred_name": "Adenocarcinoma",
+        "probs": [
+          0.9071192741394043,
+          0.09288069605827332
+        ],
+        "loss": 0.09748135507106781
+      },
+      {
+        "wsi_id": "2482056-B9",
+        "y": 0,
+        "y_name": "Adenocarcinoma",
+        "pred": 0,
+        "pred_name": "Adenocarcinoma",
+        "probs": [
+          0.9068081974983215,
+          0.09319178760051727
+        ],
+        "loss": 0.09782430529594421
+      },
+      {
+        "wsi_id": "2486653-B3",
+        "y": 0,
+        "y_name": "Adenocarcinoma",
+        "pred": 0,
+        "pred_name": "Adenocarcinoma",
+        "probs": [
+          0.9068412184715271,
+          0.09315874427556992
+        ],
+        "loss": 0.09778787195682526
+      },
+      {
+        "wsi_id": "25009529B2",
+        "y": 0,
+        "y_name": "Adenocarcinoma",
+        "pred": 0,
+        "pred_name": "Adenocarcinoma",
+        "probs": [
+          0.9075652956962585,
+          0.09243474155664444
+        ],
+        "loss": 0.09698975086212158
+      },
+      {
+        "wsi_id": "2468419-B2",
+        "y": 0,
+        "y_name": "Adenocarcinoma",
+        "pred": 0,
+        "pred_name": "Adenocarcinoma",
+        "probs": [
+          0.9073519110679626,
+          0.09264808148145676
+        ],
+        "loss": 0.09722492843866348
+      },
+      {
+        "wsi_id": "25002663B5",
+        "y": 0,
+        "y_name": "Adenocarcinoma",
+        "pred": 0,
+        "pred_name": "Adenocarcinoma",
+        "probs": [
+          0.9068361520767212,
+          0.09316384047269821
+        ],
+        "loss": 0.09779349714517593
+      },
+      {
+        "wsi_id": "2474150-B3",
+        "y": 0,
+        "y_name": "Adenocarcinoma",
+        "pred": 0,
+        "pred_name": "Adenocarcinoma",
+        "probs": [
+          0.9074261784553528,
+          0.09257381409406662
+        ],
+        "loss": 0.09714304655790329
+      },
+      {
+        "wsi_id": "25034327B2",
+        "y": 1,
+        "y_name": "NonAdenocarcinoma",
+        "pred": 1,
+        "pred_name": "NonAdenocarcinoma",
+        "probs": [
+          0.0293288417160511,
+          0.9706711173057556
+        ],
+        "loss": 0.029767543077468872
+      }
+    ]
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "features_dir": "/private/ljh-data/shared/MsaMIL/MsaMIL_Net/data/features_phikon_Yi",
+  "timestamp": "2026-01-13T21:07:56",
+  "counts": {
+    "total": 968,
+    "bad": 0,
+    "nonfinite_feats_files": 0,
+    "nonfinite_coords_files": 0,
+    "coords_out_of_range_files": 0,
+    "scales_invalid_files": 0,
+    "len_mismatch_files": 0
+  },
+  "bad_samples": []
+}

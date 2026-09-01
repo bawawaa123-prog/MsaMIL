@@ -1,0 +1,21 @@
+Best Model Classification Report (Epoch 8):
+Validation Accuracy: 0.7407
+
+              precision    recall  f1-score   support
+
+          CC     0.7273    0.8000    0.7619        10
+          EC     0.7500    0.7500    0.7500        12
+        HGSC     0.7692    0.9091    0.8333        22
+        LGSC     0.0000    0.0000    0.0000         5
+          MC     0.7500    0.6000    0.6667         5
+
+    accuracy                         0.7407        54
+   macro avg     0.5993    0.6118    0.6024        54
+weighted avg     0.6842    0.7407    0.7090        54
+
+Confusion Matrix:
+[[ 8  0  2  0  0]
+ [ 2  9  1  0  0]
+ [ 0  0 20  1  1]
+ [ 1  1  3  0  0]
+ [ 0  2  0  0  3]]

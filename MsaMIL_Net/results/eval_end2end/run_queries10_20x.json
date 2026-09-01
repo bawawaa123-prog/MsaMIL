@@ -1,0 +1,42 @@
+{
+  "when": "2026-02-02T10:10:24.904948",
+  "ckpt": "/private/ljh-data/shared/MsaMIL/MsaMIL_Net/results/NMFEM_distill_phikon_q10_20x/run_20260130_155322/best_NMFEM.pth",
+  "eval_config": {
+    "ckpt": "/private/ljh-data/shared/MsaMIL/MsaMIL_Net/results/NMFEM_distill_phikon_q10_20x/run_20260130_155322/best_NMFEM.pth",
+    "split_csv": "splits/YiYuan/splits_phikon_03.csv",
+    "fold": 0,
+    "dataset_csv": null,
+    "patches_20x": "/private/ljh-data/shared/data/patches_20x",
+    "patches_10x": "/private/ljh-data/shared/data/patches_10x",
+    "patches_5x": "/private/ljh-data/shared/data/patches_5x",
+    "sort_order": "xy",
+    "input_size": 512,
+    "bag_size": 512,
+    "patch_batch_size": 64,
+    "deterministic_eval": false,
+    "seed": 90,
+    "device": "auto",
+    "amp": true,
+    "val_amp": false,
+    "out": "results/eval_end2end/run_queries10_20x.json",
+    "num_workers": 6,
+    "save_per_sample": true
+  },
+  "label_names": [
+    "Adenocarcinoma",
+    "NonAdenocarcinoma"
+  ],
+  "metrics": {
+    "overall": {
+      "n": 97,
+      "skipped_nonfinite": 0,
+      "skipped_total": 97,
+      "loss": 0.5260720795210087,
+      "acc": 0.9072164948453608,
+      "auc": 0.9417613636363636,
+      "f1_macro": 0.8987826086956521,
+      "f1_weighted": 0.9081201255042581,
+      "f1_micro": 0.9072164948453608
+    }
+  }
+}

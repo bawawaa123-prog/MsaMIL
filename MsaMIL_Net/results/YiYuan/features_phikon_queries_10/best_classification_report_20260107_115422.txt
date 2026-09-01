@@ -1,0 +1,15 @@
+Best Model Classification Report (Epoch 26):
+Validation Accuracy: 0.9588
+
+                   precision    recall  f1-score   support
+
+   Adenocarcinoma     0.9412    1.0000    0.9697        64
+NonAdenocarcinoma     1.0000    0.8788    0.9355        33
+
+         accuracy                         0.9588        97
+        macro avg     0.9706    0.9394    0.9526        97
+     weighted avg     0.9612    0.9588    0.9581        97
+
+Confusion Matrix:
+[[64  0]
+ [ 4 29]]
